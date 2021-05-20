@@ -1,7 +1,7 @@
 [
   {
-    "id_product": 555,
-    "product_name": "Ноутбук",
+    "id": 555,
+    "title": "Ноутбук",
     "price": 45600
   },
   {
